@@ -1,3 +1,16 @@
+.titre{
+border: outset 4mm;
+border-color: #654ea3;
+width: 20%;
+margin: auto;
+border-radius: 20%;
+background-color: #eaafc8;
+}
+h1{
+   color: #654ea3; 
+   text-align: center;
+} 
+
 body {
     background-color: rgb(255, 162, 245);
 }
@@ -8,8 +21,6 @@ body {
     font-family: 'Chelsea Market', cursive;
     color: #F8FF95;
     }
-
-
 
 .photo_logo {
     width: 20%;
@@ -35,3 +46,4 @@ footer {
     font-family: 'Chelsea Market', cursive;
     color: #F8FF95;
 }
+
