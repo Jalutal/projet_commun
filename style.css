@@ -4,9 +4,9 @@ body {
 
 .logo {
     width: auto;
-    background-color: black;
-    color:antiquewhite;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #BC7AF9;
+    font-family: 'Chelsea Market', cursive;
+    color: #F8FF95;
     }
 
 
@@ -16,8 +16,9 @@ body {
 }
 
 nav {
+    color: #A6FF96;
     text-align: right;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Chelsea Market', cursive;
 }
 
 .photos {
@@ -29,6 +30,8 @@ nav {
 }
 
 footer {
+    background-color: #BC7AF9;
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Chelsea Market', cursive;
+    color: #F8FF95;
 }
