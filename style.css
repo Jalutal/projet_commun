@@ -1,5 +1,12 @@
-h1{
-border: groove 4mm;
-color: pink;
-border-color: purple;
+.titre{
+border: outset 4mm;
+border-color: #654ea3;
+width: 20%;
+margin: auto;
+border-radius: 20%;
+background-color: #eaafc8;
 }
+h1{
+   color: #654ea3; 
+   text-align: center;
+} 
