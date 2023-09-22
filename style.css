@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(255, 162, 245);
+}
+
+.logo {
+    width: auto;
+    background-color: black;
+    color:antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+
+
+.photo_logo {
+    width: 20%;
+}
+
+nav {
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.photos {
+    text-align: center;
+}
+
+.photo_vente {
+    width: 60%;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
